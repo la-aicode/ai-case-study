@@ -1,15 +1,18 @@
-**TITLE: Avaamo - Conversational AI and Enterprise Solutions**
+# **Avaamo - Conversational AI and Enterprise Solutions**
 
-**Overview and Origin**
-**Name of the company: Avaamo**
+## **Overview and Origin**
+**Name of the company**: Avaamo 
+
 **Incorporation**: Avaamo was founded in 2014.
+
 **Founders**: The company was founded by Ram Menon (CEO) and Sriram Chakravarthy (CTO).
+
 **Origin of the Idea**: The idea for Avaamo was sparked by the founders’ desire to bring conversational AI into the enterprise world to improve customer service, employee assistance, and internal enterprise communication. Both founders had extensive backgrounds in enterprise software at TIBCO, which gave them insights into how AI could streamline operations through automation and natural language interfaces​
 
 
 **Funding**: Avaamo has received a significant amount of funding from various investors. As of recent reports, they have raised over $23 million in funding from investors such as Intel Capital, Ericsson Ventures, and Mahindra Partners​
 
-**Business Activities**
+## **Business Activities**
 
 **Problem they are solving:** Avaamo aims to address the inefficiencies in customer service, employee assistance, and healthcare communication using conversational AI. They focus on automating repetitive tasks, improving accuracy, and creating more human-like interactions through AI-driven voice and text-based systems​
 
@@ -19,7 +22,7 @@
 
 **Technologies**: Avaamo uses proprietary AI technologies such as their Advanced NLU Engine and Conversational IVR (interactive voice response). Their AI solutions combine deep learning, neural networks, and speech synthesis to provide seamless voice and text-based interactions. They also use enterprise-level security protocols, including military-grade encryption and multi-factor authentication​
 
-**Landscape**
+## **Landscape**
 
 **Field**: Avaamo operates in the conversational AI and enterprise software space.
 
@@ -27,7 +30,7 @@
 
 **Competitors**: Major competitors in the conversational AI space include Google (Dialogflow), Microsoft (Azure AI), IBM (Watson Assistant), AWS (Lex), and startups like Rasa and LivePerson​
 
-**Results**
+## **Results**
 
 **Business Impact**: Avaamo has been recognized as a key player in the conversational AI space, being named a leader in the 2023 Gartner Magic Quadrant. They’ve built a diverse customer base across industries, including partnerships with global companies like Ericsson, Mahindra, and Intel​
 
@@ -35,7 +38,7 @@
 
 **Competitive Performance**: Compared to competitors, Avaamo’s strong industry-specific solutions and multilingual capabilities provide an edge in enterprise-level scalability and customization​
 
-**Recommendations**
+## **Recommendations**
 
   **Suggested Products or Services**: To further extend their leadership, Avaamo could introduce more specialized AI-driven analytics tools for healthcare or financial industries. Additionally, expanding their generative AI capabilities to enhance personalization in real-time customer interactions could further differentiate them 
                                       from competitors like Google and Microsoft.
@@ -46,3 +49,10 @@
   **Technologies**: The product would utilize machine learning for predictive modeling and natural language processing (NLP) to interpret and process unstructured data. Generative AI could be used to tailor real-time interactions, making the responses more dynamic and personalized.
 
 Why These Technologies?: These technologies would enhance the precision and value of Avaamo’s offerings by going beyond conversational AI into predictive, proactive solutions that anticipate user needs
+
+## References: 
+
+[About Avaamo](https://avaamo.ai/about_avaamo/)
+
+[Company Overview, Vision, Landscape and Future Results](https://avaamo.ai/wp-content/uploads/2020/01/Avaamo-Overview-2019-10page-4.pdf)
+

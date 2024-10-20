@@ -16,7 +16,9 @@
 
 **Problem they are solving:** Avaamo aims to address the inefficiencies in customer service, employee assistance, and healthcare communication using conversational AI. They focus on automating repetitive tasks, improving accuracy, and creating more human-like interactions through AI-driven voice and text-based systems​
 
-**Target Customer and Market Size**: Avaamo primarily targets large enterprises in industries such as healthcare, finance, telecommunications, and retail. Their market includes organizations looking to automate customer service and internal workflows through AI. The broader conversational AI market was valued at $6.8 billion in 2021 and is expected to grow significantly over the next decade​
+**Target Customer and Market Size**: 
+
+> Avaamo primarily targets large enterprises in industries such as healthcare, finance, telecommunications, and retail. Their market includes organizations looking to automate customer service and internal workflows through AI. The broader conversational AI market was valued at $6.8 billion in 2021 and is expected to grow significantly over the next decade​
 
 **Competitive Advantage**: Avaamo stands out due to its LLaMB Framework (a generative AI platform), which allows them to provide highly secure, scalable solutions with multilingual support (29 languages). They have a robust natural language understanding (NLU) engine that can process complex queries with a low false-positive rate, an essential feature in industries like healthcare and finance. They also leverage pre-built vertical domain models, making it easier to deploy their AI across industries​
 
@@ -48,11 +50,14 @@
 
   **Technologies**: The product would utilize machine learning for predictive modeling and natural language processing (NLP) to interpret and process unstructured data. Generative AI could be used to tailor real-time interactions, making the responses more dynamic and personalized.
 
-Why These Technologies?: These technologies would enhance the precision and value of Avaamo’s offerings by going beyond conversational AI into predictive, proactive solutions that anticipate user needs
+**Why These Technologies?**: _These technologies would enhance the precision and value of Avaamo’s offerings by going beyond conversational AI into predictive, proactive solutions that anticipate user needs_
 
 ## References: 
 
 [About Avaamo](https://avaamo.ai/about_avaamo/)
 
-[Company Overview, Vision, Landscape and Future Results](https://avaamo.ai/wp-content/uploads/2020/01/Avaamo-Overview-2019-10page-4.pdf)
+> [!IMPORTANT]
+> [Company Overview, Vision, Landscape and Future Results](https://avaamo.ai/wp-content/uploads/2020/01/Avaamo-Overview-2019-10page-4.pdf)
+
+[Healthcare AI](https://avaamo.ai/healthcare-overview/)
 

@@ -52,6 +52,16 @@
 
 **Why These Technologies?**: _These technologies would enhance the precision and value of Avaamo’s offerings by going beyond conversational AI into predictive, proactive solutions that anticipate user needs_
 
+## **Healthcare**
+
+Avaamo Healthcare is part of Avaamo's broader Conversational AI platform, focused on improving the healthcare experience through AI-driven solutions. The platform integrates AI-powered tools such as virtual assistants, voice interaction, and patient outreach capabilities to automate and enhance patient engagement, symptom assessments, and care navigation.
+
+> One key offering is the Avaamo Ambient solution, which transforms real-time patient-clinician conversations into structured clinical notes, helping clinicians save up to 70 hours of documentation time monthly. This is particularly useful in addressing physician burnout and improving patient outcomes by allowing doctors to focus more on care delivery rather than administrative tasks. Additionally, the platform is pre-trained with over 50 medical specialties for accuracy in medical terminology and workflows​
+
+_The platform also provides bi-directional communication, supports multiple languages, and integrates seamlessly with major electronic health records (EHRs) like Epic and Cerner. Avaamo is trusted by several major healthcare systems including Duke Health, Johns Hopkins Medicine, and UCHealth, which demonstrates its effectiveness and adaptability in diverse healthcare environments​_
+
+Overall, Avaamo Healthcare helps healthcare providers deliver more personalized, efficient care by automating administrative tasks, improving patient engagement, and enhancing clinical workflows.
+
 ## References: 
 
 [About Avaamo](https://avaamo.ai/about_avaamo/)

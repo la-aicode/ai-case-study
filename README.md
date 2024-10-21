@@ -30,7 +30,7 @@
 
 **Trends in the field**: Over the past 5-10 years, the field of conversational AI has seen massive advancements with the rise of natural language processing (NLP), neural networks, and deep learning. There's been a shift toward more human-like interactions in customer service and business automation, as well as innovations in voice-driven interfaces for better accessibility. Generative AI (e.g., GPT) is also a game-changer in this field​
 
-**Competitors**: Major competitors in the conversational AI space include Google (Dialogflow), Microsoft (Azure AI), IBM (Watson Assistant), AWS (Lex), and startups like Rasa and LivePerson​
+**Competitors**: Major competitors in the conversational AI space include **Google (Dialogflow)**, **Microsoft (Azure AI)**, **IBM (Watson Assistant)**, **AWS (Lex)**, and **startups like Rasa and LivePerson​**
 
 ## **Results**
 
